@@ -370,4 +370,7 @@ footer p{
       text-decoration: none;
       text-align: center;
   }
+  movimiento {
+    float: right;
+  }
 
